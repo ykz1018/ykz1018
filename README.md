@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?lines=我是刀光哥;爱出阐释者2&font=Roboto" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=⚡⚡我是刀光哥⚡⚡;⚡⚡爱出阐释者⚡⚡&font=Roboto" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ykz1018&show_icons=true&theme=highcontrast)
 
